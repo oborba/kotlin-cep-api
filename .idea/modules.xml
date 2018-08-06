@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/kotlin-cep-api.iml" filepath="$PROJECT_DIR$/kotlin-cep-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin-cep-api_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin-cep-api_main.iml" group="kotlin-cep-api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin-cep-api_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin-cep-api_test.iml" group="kotlin-cep-api" />
+    </modules>
+  </component>
+</project>
